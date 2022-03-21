@@ -1,4 +1,53 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello%20😊%20I'm%20Joud&fontSize=70)
+
+## ABOUT ME 
+
+🌺 I'm a sophomore Computer Science student, studying at Effat University.
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+- 🎓 College student
+
+- 🌸 Studying Computer Science
+ 
+- 🤔 Looking for open source to contribute
+
+- 📫 How to reach me joalfarra@effat.edu.sa
+
+- 🧪Interested in bioinformatics
+
+- 📈 Looking to improve my skills
+
+
+## MY GITHUB STAT
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JoudMaj&&show_icons=true&count_private=true&theme=dracula" width=400/> <img alt="Joud's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JoudMaj&theme=dracula" width=400/>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/JoudMaj/github-readme-activity-graph"><img alt="Joud's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JoudMaj&theme=dracula" width=850/></a>
+</p>
+
+
+## TOP PROGRAMING LANGUAGES
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoudMaj&theme=dracula)
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+## Connect with me:
+
+<a href = "https://www.linkedin.com/in/aicha-sidiya-122009221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=JoudMaj">
+</a>
+<a href="https://github.com/JoudMaj?tab=followers"><img src="https://img.shields.io/github/followers/JoudMaj?label=Followers&style=social" alt="GitHub Badge"></a>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+
 
 <!--
 **JoudMaj/JoudMaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
