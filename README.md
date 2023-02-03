@@ -1,7 +1,7 @@
 
 ## ABOUT ME 
 
-🌺 I'm a sophomore Computer Science student, studying at Effat University.
+🌺 I'm a junior Computer Science student, studying at Effat University.
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - 🎓 College student
 
@@ -34,7 +34,7 @@
 
 ## Connect with me:
 
-<a href = "https://www.linkedin.com/in/aicha-sidiya-122009221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+[##<a href = "https://www.linkedin.com/in/aicha-sidiya-122009221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>]:#
 
 
 ## ❤ Views and Followers
