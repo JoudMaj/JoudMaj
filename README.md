@@ -1,4 +1,3 @@
-![header]
 
 ## ABOUT ME 
 
@@ -43,8 +42,6 @@
     <img src="https://komarev.com/ghpvc/?username=JoudMaj">
 </a>
 <a href="https://github.com/JoudMaj?tab=followers"><img src="https://img.shields.io/github/followers/JoudMaj?label=Followers&style=social" alt="GitHub Badge"></a>
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
 
 <!--
