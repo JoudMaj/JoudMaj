@@ -1,5 +1,5 @@
 
-## ABOUT ME 
+## About Me
 
 🌺 I'm a junior Computer Science student, studying at Effat University.
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
@@ -14,7 +14,7 @@
 - 📈 Looking to improve my skills
 
 
-## MY GITHUB STAT
+## My Github Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JoudMaj&&show_icons=true&count_private=true&theme=dracula" width=400/> <img alt="Joud's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JoudMaj&theme=dracula" width=400/>
 
@@ -25,7 +25,7 @@
 </p>
 
 
-## TOP PROGRAMING LANGUAGES
+## Top Programming Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoudMaj&theme=dracula)
 
@@ -34,10 +34,12 @@
 
 ## Connect with me:
 
-[##<a href = "https://www.linkedin.com/in/aicha-sidiya-122009221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>]:#
+<!--
+##<a href = "https://www.linkedin.com/in/aicha-sidiya-122009221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+-->
 
 
-## ❤ Views and Followers
+## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=JoudMaj">
 </a>
