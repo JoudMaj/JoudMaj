@@ -19,11 +19,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=JoudMaj&&show_icons=true&count_private=true&theme=dracula" width=400/> <img alt="Joud's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JoudMaj&theme=dracula" width=400/>
 
 </p>
-
+<!--
 <p align="center">
 <a href="https://github.com/JoudMaj/github-readme-activity-graph"><img alt="Joud's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JoudMaj&theme=dracula" width=850/></a>
 </p>
-
+-->
 
 ## Top Programming Languages
 
