@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello%20😊%20I'm%20Joud&fontSize=70)
+![header]
 
 ## ABOUT ME 
 
