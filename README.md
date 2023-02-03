@@ -12,8 +12,6 @@
 
 - 📫 How to reach me joalfarra@effat.edu.sa
 
-- 🧪Interested in bioinformatics
-
 - 📈 Looking to improve my skills
 
 
